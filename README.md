@@ -1,4 +1,3 @@
-* Spaces of Interest: Computers, Robotics, Aeronautics, Mathematics
-* Languages: C/C++, Python3, Assembly, *French*
-* Hobbies: Competitive Robotics, Coding, Circuitry
-* Free Time Activities: Guitar, Coding, Learning
+* Spaces of Interest: Computers, Robots
+* Languages: C/C++, Rust, Assembly (Arm + x86), *French*
+* Free Time Activities: Guitar, Coding, Havin fun
