@@ -1,3 +1,9 @@
-* Spaces of Interest: Computers, Robots
-* Languages: C/C++, Rust, Assembly (Arm + x86), *French*
-* Free Time Activities: Guitar, Coding, Havin fun
+## Interests 
+* Spaces: Computers, Robots, Design
+* Languages: C/C++, Rust, Verilog, *French*
+* Free Time Activities: Instruments, Learning, Hangin' out
+
+## Regions of Experience:
+* Custom Linux Kernels
+* Low Level Hardware Design
+* CMake & Makefiles
