@@ -1,9 +1,10 @@
-## Interests 
-* Spaces: Computers, Robots, Design
-* Languages: C/C++, Rust, Verilog, *French*
-* Free Time Activities: Instruments, Learning, Hangin' out
+## Interests:
+* **Spaces of Interest**: *Computers, Robots, Design*
+* **Languages**: C/C++, *Rust, Verilog, French*
+* **Free Time Activities**: *Instruments, Learning, Hangin' out!*
 
 ## Regions of Experience:
-* Custom Linux Kernels
-* Low Level Hardware Design
-* CMake & Makefiles
+- *Low Level Hardware Design*
+- *RTL Waveform viewers & debuggers*
+- *CMake & Makefiles*
+- *Linker Files*
