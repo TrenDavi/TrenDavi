@@ -1,6 +1,6 @@
 ## Interests:
 * **Spaces of Interest**: *Computers, Robots, Design*
-* **Languages**: C/C++, *Rust, Verilog, French*
+* **Languages**: *C/C++, Python, Verilog, French*
 * **Free Time Activities**: *Instruments, Learning, Hangin' out!*
 
 ## Regions of Experience:
