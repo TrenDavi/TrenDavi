@@ -1,4 +1,4 @@
 ## Interests:
-* **Spaces of Interest**: *Computers, Robots, More Computers*
-* **Languages**: *C/C++, ASMs*
-* **Free Time Activities**: *Instruments, Learning, Hangin' out!*
+* **Spaces of Interest**: *Electronics, Math, Computers, And More*
+* **Currently Picking Up**: *C/C++, Circuit Design, Modern Algebra*
+* **Free Time Activities**: *Throwing Circuits together, Scrolling Datasheets, Hangin' out!*
